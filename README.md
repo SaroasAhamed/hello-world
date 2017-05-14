@@ -1,2 +1,5 @@
 # hello-world
-my new repository
+
+hi people,
+I am an undergraduate, I like asp.net 
+I am fond of coding
